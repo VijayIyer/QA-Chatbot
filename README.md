@@ -1,5 +1,5 @@
 # QA-Chatbot
-Question Answering Chatbot using pre-trained BERT model
+Question Answering Chatbot using pre-trained BERT model. 
 
 # Required packages
 The following packages and dependencies should be installed before running the notebook in this repo
