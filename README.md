@@ -4,6 +4,11 @@ Question Answering Chatbot using pre-trained BERT model
 # Required packages
 The following packages and dependencies should be installed before running the notebook in this repo
  - transformers
+ - pytorch
+ - pandas
+ - coloroma
+ - termcolor
+ - requests
 
 or use the requirements.txt file and run following command -> pip install -r requirements.txt (in an existing environment) 
 
