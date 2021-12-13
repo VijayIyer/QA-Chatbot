@@ -3,7 +3,7 @@ Question Answering Chatbot using pre-trained BERT model.
 
 # Required packages
 The following packages and dependencies should be installed before running the notebook from this repo
- - python3.7
+ - python=3.7
  - torch
  - transformers
  - pandas
