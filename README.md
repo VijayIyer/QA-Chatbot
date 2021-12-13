@@ -4,16 +4,13 @@ Question Answering Chatbot using pre-trained BERT model.
 # Required packages
 The following packages and dependencies should be installed before running the notebook in this repo
  - python3.7
- - transformers
  - torch
+ - transformers
  - pandas
- - coloroma
  - termcolor
  - requests
- - jupyter notebook
+ - jupyter notebook(ipython)
 
-or run the command
-- **pip install -r requirements.txt**
 
 # Data
 The notebook gets the content of the dataset from the url directly, however, if that does not work, extract the squad1.1 zip file.
